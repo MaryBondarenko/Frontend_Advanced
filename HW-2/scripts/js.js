@@ -20,7 +20,7 @@ console.log({M});
 let evenOrOdd = confirm("Пропускати парні числа?");
 
 alert( evenOrOdd );
-console.log({evenOrOdd});
+ 
 
 
 let sum = 0;
